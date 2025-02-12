@@ -1,8 +1,8 @@
 ## Hi there, welcome to my GitHub! 
 
-I'm D. Can, a former TU Munich student with a computer engineering degree from Eastern Mediterrenean Univesity. (Currently at HM) I’m always intereseted to talk over AI, machine learning, and deep learning, but my general field is full-stack web development. 
+I'm D. Can, a former TU Munich student with a computer engineering degree from Eastern Mediterrenean Univesity (Currently at HM). I’m always interested to talk over AI, machine learning, and deep learning, my general field is full-stack web development. 
 
-Right now, I'm focused on building modern web apps with **React, Node.js, TypeScript, and GraphQL**, while also exploring **CI/CD, cloud deployment, and containerization**. I love experimenting with new tech, improving my coding skills, and working on cool projects.
+I have background in many other tools but now, I'm focused on building modern web apps with **React, Node.js, TypeScript, and GraphQL**, while also exploring **CI/CD, cloud deployment, and containerization**. I love experimenting with new tech, improving my coding skills, and working on cool projects.
 
 If you want to connect, collaborate, or just say hi—feel free to reach out!
 
