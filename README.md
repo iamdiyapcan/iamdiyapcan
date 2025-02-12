@@ -1,4 +1,4 @@
-##Hi there, welcome to my GitHub.
+## Hi there, welcome to my GitHub! 
 
 I'm D. Can, a former TU Munich student with a computer engineering degree from Eastern Mediterrenean Univesity. (Currently at HM) I’m always intereseted to talk over AI, machine learning, and deep learning, but my general field is full-stack web development. 
 
