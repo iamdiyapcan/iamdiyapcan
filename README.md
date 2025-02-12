@@ -35,6 +35,7 @@ techs = random.sample(items, random.randint(5, 8))
 
 ## 📚 Learning Roadmap
 Currently working through:
+
 ✅ **Fundamentals of Web Apps**  
 ✅ **Introduction to React**  
 ✅ **Communicating with Servers**  
